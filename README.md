@@ -3,9 +3,11 @@ Move along.
 
 ## Installation ##
 Using git:
+
     $ git clone https://github.com/seeschloss/nothing-to-see-here.git
 
 Using npm:
+
     $ npm install nothing-to-see-here
 
 ## Usage ##
