@@ -1,7 +1,7 @@
 {
 	"name": "nothing-to-see-here",
 	"description": "A package which does nothing at all",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": {
 		"name": "Matthieu Valleton",
 		"email": "mvalleton@seos.fr",
