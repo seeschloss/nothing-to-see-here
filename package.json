@@ -1,0 +1,30 @@
+{
+	"name": "nothing-to-see-here",
+	"description": "A package which does nothing at all",
+	"version": "1.0.0",
+	"author": {
+		"name": "Matthieu Valleton",
+		"email": "mvalleton@seos.fr",
+		"url": "http://ssz.fr"
+	},
+	"license": "MIT",
+	"keywords": [
+		"nothing",
+		"null",
+		"dummy",
+		"placeholder",
+		"test",
+		"testing"
+	],
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/seeschloss/nothing-to-see-here"
+	},
+	"main": "nothing-to-see-here.js",
+	"scripts": {
+		"test": "node test.js"
+	},
+	"devDependencies": {
+		"test": ">=0.0.5"
+	}
+}
